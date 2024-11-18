@@ -1,7 +1,11 @@
+
+<img align="right" alt="Coding" width="1000" height="500" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+
 <h1 align="center">Hi 👋, I'm Srinivasan K.V</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvsrini07&label=Profile%20views&color=0e75b6&style=flat" alt="kvsrini07" /> </p>
 
