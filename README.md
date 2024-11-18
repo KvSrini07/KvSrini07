@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvsrini07&label=Profile%20views&color=0e75b6&style=flat" alt="kvsrini07" /> </p>
 
+<p align="left"> <a href="https://www.instagram.com/__decode_srini_07/" target="blank"><img src="https://img.shields.io/twitter/follow/srinivasan?logo=instagram&style=for-the-badge" alt="srinivasan"  </p>
+
 - 🔭 I’m currently working on **Agogos Technology LLP**
 
 - 🌱 I’m currently learning **FastAPI**
@@ -12,9 +14,7 @@
 - 💬 Ask me about **spring boot, fastapi**
 
 - 📫 How to reach me **kvsrinivasan27@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AvLBhCCNXeO6P0f6tf7ZIBun375rBTcf/view?usp=sharing](https://drive.google.com/file/d/1AvLBhCCNXeO6P0f6tf7ZIBun375rBTcf/view?usp=sharing)
-
+  
 - ⚡ Fun fact **Coding is funny**
 
 <h3 align="left">Connect with me:</h3>
