@@ -88,8 +88,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" alt="canva" width="40" height="40"/>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://cdn.logojoy.com/wp-content/uploads/20230329101157/current-canva-logo.png" width="40">
 </a>
 
 <!-- Office -->
