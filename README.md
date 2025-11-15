@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Agogos Technology LLP**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Django Framework**
 
 - 💬 Ask me about **spring boot, fastapi**
 
