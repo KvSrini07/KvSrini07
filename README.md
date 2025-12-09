@@ -1,7 +1,6 @@
 <!-- 🎆 ANIMATED HERO BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="100%">
-</p>
+<img align="center" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;"
+     src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
 <h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">Srinivasan K.V</span> ✨</h1>
 <h3 align="center">Backend Developer | Java | Spring Boot | Python | FastAPI | Django</h3>
