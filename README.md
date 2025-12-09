@@ -1,110 +1,95 @@
-<!-- TOP HEADER GIF -->
+<!-- 🎆 ANIMATED HERO BANNER -->
 <p align="center">
-  <img width="100%" height="350px" style="object-fit: cover; border-radius: 10px;"
-       src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+  <img src="https://i.imgur.com/oy0wE2X.gif" width="100%" height="350px" style="object-fit: cover; border-radius: 12px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Srinivasan K.V</span></h1>
-<h3 align="center">Back-End Developer | Java | Spring Boot | Python | Django | FastAPI</h3>
+<h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">Srinivasan K.V</span> ✨</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot | Python | FastAPI | Django</h3>
 
-<!-- RIGHT SIDE GIF -->
-<p align="right">
-  <img alt="Coding" width="350px"
-       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
-<!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KvSrini07&label=Profile+Views&color=blue&style=for-the-badge"/>
-</p>
-
-<!-- INSTAGRAM BADGE -->
-<p align="left">
-  <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-red?style=for-the-badge&logo=instagram"/>
-  </a>
+<!-- 🔥 ANIMATED TAGLINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+FastAPI+%7C+Django;API+Developer+%7C+Database+Engineer;Passionate+about+Coding!" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 - 🔭 Working at **Agogos Technology LLP**  
-- 🌱 Currently learning **Django Framework**  
-- 💬 Ask me about **Spring Boot**, **FastAPI**, **Python APIs**  
-- 📫 Reach me at **kvsrinivasan27@gmail.com**  
-- ⚡ Fun fact — *Coding is funny 😄*  
+- 🌱 Currently learning **Advanced Django**  
+- 💬 Ask me about **Java, Spring Boot, FastAPI, SQL**  
+- 📫 Contact: **kvsrinivasan27@gmail.com**  
+- ⚡ Fun Fact — *Coding makes me happier than coffee ☕*
 
 ---
 
-## 🌐 Connect With Me  
+## 🎖️ Visitor Badges
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KvSrini07&label=Profile+Visits&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/KvSrini07?style=for-the-badge&color=green"/>
+  <img src="https://img.shields.io/github/stars/KvSrini07?style=for-the-badge&color=yellow"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KvSrini07&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,spring,fastapi,django,bootstrap,mysql,postgres,git,github,gitlab,postman,figma,microsoftoffice" />
+</p>
+
+### Skill Progress
+<p>
+  <b>Java:</b> <img src="https://img.shields.io/badge/Java-90%25-blue?style=for-the-badge"/><br>
+  <b>Spring Boot:</b> <img src="https://img.shields.io/badge/SpringBoot-85%25-brightgreen?style=for-the-badge"/><br>
+  <b>Python:</b> <img src="https://img.shields.io/badge/Python-90%25-yellow?style=for-the-badge"/><br>
+  <b>FastAPI:</b> <img src="https://img.shields.io/badge/FastAPI-80%25-teal?style=for-the-badge"/><br>
+  <b>Django:</b> <img src="https://img.shields.io/badge/Django-70%25-darkgreen?style=for-the-badge"/><br>
+  <b>Databases:</b> <img src="https://img.shields.io/badge/MySQL/PostgreSQL-85%25-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10" /><br><br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&theme=tokyonight&border_radius=10" /><br><br>
+  <img height="200" src="https://streak-stats.demolab.com/?user=KvSrini07&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/srinivasan-k-v-674333263" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    height="40" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    height="40" width="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
   <a href="https://www.youtube.com/@kvsefx2002" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-    height="40" width="40"/>
+    <img src="https://skillicons.dev/icons?i=youtube" width="50"/>
   </a>
 </p>
 
 ---
 
-# 🛠️ Languages & Tools  
-<div align="center">
-
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
-<!-- Frameworks -->
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
-
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-
-<!-- Design -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" width="45"/>
-
-<!-- Office -->
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" width="45"/>
-
-</div>
+## ✨ Inspirational Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics  
-<div align="center">
+<p align="center">
+  <img src="https://i.imgur.com/fYkY7Ma.gif" width="300px"/>
+</p>
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
-
-<br/><br/>
-
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10"/>
-
-<br/><br/>
-
-<img height="200"
-     src="https://github-readme-streak-stats.herokuapp.com?user=KvSrini07&theme=tokyonight&border_radius=10"/>
-
-</div>
+<p align="center">🔥 Thanks for visiting my profile — Keep Coding & Stay Awesome! 🔥</p>
