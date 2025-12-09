@@ -29,7 +29,7 @@
 ---
 
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me (FIXED: Using reliable Shields.io badges)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srinivasan-k-v-674333263" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools (FIXED: Using reliable Devicon CDN links)
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Optimized)
 
 <div align="center">
 
@@ -82,14 +82,4 @@
 <br/><br/>
 
 <img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-<br/><br/>
-
-<img height="200"
-     src="https://github-readme-streak-stats.herokuapp.com?user=KvSrini07&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<p align="center">🔥 Thanks for visiting my profile — Keep Coding & Stay Awesome! 🔥</p>
+     src="https://github-readme-stats.vercel.app/api?username=Kv
