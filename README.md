@@ -12,9 +12,9 @@
 
 
 <!-- RIGHT SIDE GIF (FIXED SPACING) -->
-<img align="right" alt="Coding" width="380" 
+<!-- <img align="right" alt="Coding" width="380" 
      style="margin-left: 20px; margin-bottom: 20px;"
-     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <!-- PROFILE VIEWS -->
 <p align="left">
