@@ -1,36 +1,20 @@
-<!-- 🎆 ANIMATED HERO BANNER -->
-<img align="center" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;"
-     src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-
 <h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">Srinivasan K.V</span> ✨</h1>
 <h3 align="center">Backend Developer | Java | Spring Boot | Python | FastAPI | Django</h3>
 
-<!-- 🔥 ANIMATED TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+FastAPI+%7C+Django;API+Developer+%7C+Database+Engineer;Passionate+about+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%7C+FastAPI+%7C+Django;API+Developer+%7C+Database+Engineer;Passionate+about+Coding!" alt="Typing SVG"/>
 </p>
 
 
-<!-- RIGHT SIDE GIF (FIXED SPACING) -->
-<!-- <img align="right" alt="Coding" width="380" 
-     style="margin-left: 20px; margin-bottom: 20px;"
-     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-     
-<br><br>
-<!-- PROFILE VIEWS -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KvSrini07&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=KvSrini07&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- INSTAGRAM BADGE -->
 <p align="left">
-  <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-red?style=for-the-badge&logo=instagram"/>
-  </a>
+  <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-red?style=for-the-badge&logo=instagram" alt="Instagram Profile Badge"/>
+  </a>
 </p>
-
-<br><br> <!-- PUSH TEXT DOWN SO GIF DOESN'T OVERLAP -->
 
 ---
 
@@ -44,82 +28,70 @@
 
 ---
 
-<!-- CLEAR FLOAT SO NEXT SECTIONS DON'T OVERLAP -->
-<div style="clear: both;"></div>
-
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/srinivasan-k-v-674333263" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         height="35" width="45"/>
-  </a>
+  <a href="https://www.linkedin.com/in/srinivasan-k-v-674333263" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"
+         height="35" width="45"/>
+  </a>
 
-  <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         height="35" width="45"/>
-  </a>
+  <a href="https://www.instagram.com/__decode_srini_07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"
+         height="35" width="45"/>
+  </a>
 
-  <a href="https://www.youtube.com/@kvsefx2002" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-         height="35" width="45"/>
-  </a>
+  <a href="https://www.youtube.com/@kvsefx2002" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube"
+         height="35" width="45"/>
+  </a>
 </p>
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45"/>&nbsp;
 
-<!-- Frameworks -->
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45"/>&nbsp;
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="45"/>&nbsp;
 
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="45"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45"/>&nbsp;
 
-<!-- Design -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" width="45"/>&nbsp;
-
-<!-- Office -->
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45"/>&nbsp;
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" alt="Top Languages"/>
 <br/><br/>
 
 <img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10"/>
+     src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
 <br/><br/>
 
 <img height="200"
-     src="https://github-readme-streak-stats.herokuapp.com?user=KvSrini07&theme=tokyonight&border_radius=10"/>
+     src="https://github-readme-streak-stats.herokuapp.com?user=KvSrini07&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
