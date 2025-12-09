@@ -1,6 +1,6 @@
 <!-- 🎆 ANIMATED HERO BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="100%">
 </p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">Srinivasan K.V</span> ✨</h1>
