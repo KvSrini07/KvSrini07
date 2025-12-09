@@ -1,6 +1,6 @@
 <!-- 🎆 ANIMATED HERO BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/oy0wE2X.gif" width="100%" height="350px" style="object-fit: cover; border-radius: 12px;">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#58a6ff;">Srinivasan K.V</span> ✨</h1>
@@ -59,8 +59,13 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
+  <!-- Stats -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&border_radius=10" /><br><br>
+
+  <!-- Top languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&theme=tokyonight&border_radius=10" /><br><br>
+
+  <!-- Streak stats -->
   <img height="200" src="https://streak-stats.demolab.com/?user=KvSrini07&theme=tokyonight" />
 </p>
 
@@ -80,16 +85,5 @@
 </p>
 
 ---
-
-## ✨ Inspirational Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/fYkY7Ma.gif" width="300px"/>
-</p>
 
 <p align="center">🔥 Thanks for visiting my profile — Keep Coding & Stay Awesome! 🔥</p>
