@@ -29,7 +29,7 @@
 ---
 
 
-## 🌐 Connect With Me (FIXED: Using reliable Shields.io badges)
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srinivasan-k-v-674333263" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Languages & Tools (FIXED: Using reliable Devicon CDN links)
+## 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -73,13 +73,18 @@
 
 ---
 
-## 📊 GitHub Analytics (Optimized)
+## 📊 GitHub Analytics ✨
 
 <div align="center">
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" alt="Top Languages"/>
-<br/><br/>
+[![KvSrini07 GitHub Stats](https://github-readme-stats.vercel.app/api?username=KvSrini07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&count_private=true)](https://github.com/KvSrini07)
 
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=Kv
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KvSrini07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF)](https://github.com/KvSrini07)
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KvSrini07&theme=tokyonight&hide_border=true&border_radius=10&background=00000000&ring=58A6FF&fire=58A6FF&side_main=58A6FF&currstreak=58A6FF)](https://github.com/KvSrini07)
+
+</div>
+
+---
