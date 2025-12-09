@@ -16,6 +16,8 @@
      style="margin-left: 20px; margin-bottom: 20px;"
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
+     
+<br><br>
 <!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KvSrini07&label=Profile+Views&color=blue&style=for-the-badge"/>
@@ -28,7 +30,7 @@
   </a>
 </p>
 
-<br><br><br>  <!-- PUSH TEXT DOWN SO GIF DOESN'T OVERLAP -->
+<br><br> <!-- PUSH TEXT DOWN SO GIF DOESN'T OVERLAP -->
 
 ---
 
